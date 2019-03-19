@@ -1,0 +1,50 @@
+[
+    {
+        "name": "messi",
+        "url": "./images/messi.jpg"
+    },
+    {
+        "name": "beckenbauer",
+        "url": "./images/beckenbauer.jpg"
+    },
+    {
+        "name": "cr7",
+        "url": "./images/cr7.jpg"
+    },
+    {
+        "name": "cruyff",
+        "url": "./images/cruyff.jpg"
+    },
+    {
+        "name": "drogba",
+        "url": "./images/drogba.jpg"
+    },
+    {
+        "name": "henry",
+        "url": "./images/henry.jpg"
+    },
+    {
+        "name": "karimi",
+        "url": "./images/karimi.jpg"
+    },
+    {
+        "name": "maradona",
+        "url": "./images/maradona.jpg"
+    },
+    {
+        "name": "pele",
+        "url": "./images/pele.jpg"
+    },
+    {
+        "name": "ronaldinho",
+        "url": "./images/ronaldinho.jpg"
+    },
+    {
+        "name": "ronaldo",
+        "url": "./images/ronaldo.jpg"
+    },
+    {
+        "name": "zidane",
+        "url": "./images/zidane.jpg"
+    }
+]

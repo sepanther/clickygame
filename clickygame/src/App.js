@@ -7,18 +7,18 @@ import Image from "./components/Image";
 import Img from "./components/Img.json";
 import logo from './logo.svg';
 
-import messi from "../public/assets/images/messi.jpg"
-import cr7 from "../public/assets/images/cr7.jpg"
-import beckenbauer from "../public/assets/images/beckenbauer.jpg"
-import cruyff from "../public/assets/images/cruyff.jpg"
-import drogba from "../public/assets/images/drogba.jpg"
-import henry from "../public/assets/images/henry.jpg"
-import karimi from "../public/assets/images/karimi.jpg"
-import maradona from "../public/assets/images/maradona.jpg"
-import pele from "../public/assets/images/pele.jpg"
-import ronaldinho from "../public/assets/images/ronaldinho.jpg"
-import ronaldo from "../public/assets/images/ronaldo.jpg"
-import zidane from "../public/assets/images/zidane.jpg"
+import messi from "./images/messi.jpg"
+import cr7 from "./images/cr7.jpg"
+import beckenbauer from "./images/beckenbauer.jpg"
+import cruyff from "./images/cruyff.jpg"
+import drogba from "./images/drogba.jpg"
+import henry from "./images/henry.jpg"
+import karimi from "./images/karimi.jpg"
+import maradona from "./images/maradona.jpg"
+import pele from "./images/pele.jpg"
+import ronaldinho from "./images/ronaldinho.jpg"
+import ronaldo from "./images/ronaldo.jpg"
+import zidane from "./images/zidane.jpg"
 
 import './App.css';
 
